@@ -13,7 +13,7 @@ startdate: 2018-12-11      # machine-readable start date for the workshop in YYY
 enddate: 2018-12-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Naupaka Zimmerman","John Simpson"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["N/A"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+contact: ["john.simpson@computecanada.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad: "https://docs.google.com/document/d/1OdQwDcfpwCmClC0u-VOddXE_rdwRHT4hVAv2WNjkY7I"            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
